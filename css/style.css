@@ -3,4 +3,34 @@ text-align: center;
 }
 header{
 border-bottom: 3px solid black;
+background-image: url("../assets/img/573224.jpg");
+color: white;
+}
+textarea{
+width: 67%;
+height:200px
+}
+button,label{
+position: relative;
+top:-100px
+}
+button{
+padding:10px 20px;
+box-sizing: border-box;
+background-color: green;
+color: white;
+}
+label{
+font-size: 1.5rem;
+font-weight: bold;
+}
+#clear{
+position: relative;
+top: 0;
+}
+section{
+background-image: url("../assets/img/bubble-wallpaper-1.jpg");
+}
+body{
+background-image: linear-gradient(yellow,green);
 }
